@@ -117,7 +117,7 @@ author:
   name             : "Lukas Péron"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a fifth year student at École Normale Supérieure working on statistical physics of disordered systems. I graduated from the ICFP master in the theoretical physics track in July 2026. At ENS I am majoring in physics and minoring in mathematics."
-  location         : "45 rue d'Ulm, Paris, 75005, France."
+  location         : "Paris, France"
   email            : 
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
@@ -125,7 +125,7 @@ author:
       icon: "fas fa-fw fa-square-envelope"
       url: "mailto:lukas.peron@ens.psl.eu"
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/lukas-p%C3%A9ron/"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-square-x-twitter"
